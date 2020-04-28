@@ -11629,7 +11629,8 @@ section {
 .hero-text {
   width: 100%;
   float: left;
-  height: auto;
+  /* height: auto; */
+  height: 558px;
 }
 .hero-text h1 {
   font-size: 2em;
